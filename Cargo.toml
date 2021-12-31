@@ -1,0 +1,10 @@
+[package]
+name = "tontine"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+thirtyfour = "0.28.0"
+tokio = "1.15.0"
+rand = "0.8.4"
+libmath = "0.1.4"
